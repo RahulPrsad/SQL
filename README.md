@@ -66,29 +66,6 @@ Instead of random questions, I follow a **pattern-based learning approach**:
 - 🔄 Top N per Group  
 - 🔄 Window Functions  
 
----
-
-##  Repository Structure
-│
-├── Basics/
-│ ├── 01_select_query.sql
-│ ├── 02_where_condition.sql
-│ └── ...
-│
-├── Intermediate/
-│ ├── group_by.sql
-│ ├── joins.sql
-│ └── ...
-│
-├── Advanced/
-│ ├── window_functions.sql
-│ ├── cte.sql
-│ └── ...
-│
-└── README.md
-
-
-
 
 ---
 
